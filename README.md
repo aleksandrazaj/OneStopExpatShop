@@ -1,3 +1,3 @@
 # OneStopExpatShop
 TechlabsProject
-#Scraping project to get textual data about Expats in Copenhagen
+#Scraping project to get textual data about expats in Copenhagen
